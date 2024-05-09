@@ -1,2 +1,9 @@
-# flet-example
-Fletを使って試しにアプリを作ってみた
+# A flet-example Flet app
+
+An example of a minimal Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
